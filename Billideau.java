@@ -20,7 +20,7 @@ public class Billideau {
 	{
 
 
-		// Your code should go below this line
+		
 
 		 ArrayList<Hotel> hotelList = new ArrayList<Hotel>();
 		 ArrayList<Reservation> resList = new ArrayList<Reservation>();
